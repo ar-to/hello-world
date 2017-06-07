@@ -2,3 +2,5 @@
 Simple exercise to help understand GitHub.
 
 I'm adding an update to this exercise.
+
+Tested rebase command.
